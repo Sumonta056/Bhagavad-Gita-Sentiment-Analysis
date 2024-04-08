@@ -1,0 +1,7 @@
+Optimistic = Joy, Pride, Courage
+Sadness
+Annoyed = Angry + Disgust
+Anxious = Fear + Confused
+Devotion = Love + Devotopm
+Idealistic
+Surprise
